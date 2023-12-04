@@ -1,9 +1,6 @@
 //App.js 
 import React, { useEffect }  from 'react';
 
-// js
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import 'jquery.easing/jquery.easing.min.js';
 
 import { Route, Link, Routes } from "react-router-dom";
 

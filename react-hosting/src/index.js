@@ -8,6 +8,9 @@ import './index.css';
 import './css/sb-admin-2.min.css';
 import './vendor/fontawesome-free/css/all.min.css';
 
+// js
+import './vendor/bootstrap/js/bootstrap.bundle.min.js';
+
 
 // util
 import App from './App';
